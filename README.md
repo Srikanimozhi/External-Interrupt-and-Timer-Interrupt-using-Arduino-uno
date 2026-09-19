@@ -105,9 +105,6 @@ void loop() {
 ```
 ---
 # OUTPUT
-# LED OFF
-
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/ddc3390e-87e9-43fc-b6ad-9e6cfe7eaa71" />
 
 # LED ON
 <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/a76be27b-bd21-4d07-a386-e93746a7d6e6" />
